@@ -72,7 +72,7 @@ extern void GPIO_setPinBajo(uint_fast8_t selectedPort,                   uint_fa
 
 extern uint8_t GPIO_getPinValor(uint_fast8_t selectedPort,                 uint_fast16_t selectedPins);
 extern uint8_t Gpio_Pin_in( uint_fast16_t pin_);
-
+extern uint8_t Gpio_Pin_in_2( uint_fast16_t pin_);//Ejercicio 8
 
 extern void  Gpio_init2021( void );//ejercicio 9
 
